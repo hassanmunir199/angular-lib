@@ -1,0 +1,23 @@
+{
+  "name": "my-library",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^13.2.0",
+    "@angular/core": "^13.2.0"
+  },
+   "author": { 
+     "name": "malikhassan",
+     "email": "malikhassan.1965@gmail.com",
+     "url": "http://localhost:4201/"
+   },
+   "repository": {
+     "type": "git",
+     "url": "https://github.com/hassanmunir199/angular-lib"
+   },
+  "license": "ISC",
+  "registry": "http://localhost:35579/",
+  
+  "dependencies": {
+    "tslib": "^2.3.0"
+  } 
+}
